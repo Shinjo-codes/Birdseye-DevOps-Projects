@@ -15,3 +15,11 @@ Compute instance (VM)
 Database (MySQL/Postgres)
 Security groups
 Load balancer (optional)
+
+terraform-infra-project/
+├── modules/
+├── environments/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+└── README.md
