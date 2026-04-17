@@ -19,3 +19,14 @@ Tools You Can Use
 GitHub Actions (recommended)
 Docker
 Any cloud (Oracle/AWS)
+
+ci-cd-pipeline-project/
+├── .github/workflows/
+├── app/
+├── Dockerfile
+└── README.md
+
+README would Show:
+Pipeline workflow diagram
+Step-by-step automation
+Before vs after (manual vs automated)
