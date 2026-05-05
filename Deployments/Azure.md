@@ -18,6 +18,7 @@ Azure Front Door (Edge Layer)
 ↓
 Azure Storage Static Website ($web container)
 
+
 ### Key Idea:
 Instead of exposing storage directly, we introduce an **edge layer (Front Door)** to handle performance, security, and routing.
 
