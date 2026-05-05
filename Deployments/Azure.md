@@ -18,7 +18,7 @@ Azure Front Door (Edge Layer)
 ↓
 Azure Storage Static Website ($web container)
 
-![Architecture](deployment/download.svg)
+![Architecture Diagram](deployments/download.svg)
 
 
 ### Key Idea:
